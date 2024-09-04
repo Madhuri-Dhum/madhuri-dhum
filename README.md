@@ -1,4 +1,4 @@
-## Hi there 👋 I am Madhuri from Maharashtra, India
+## Hi there 👋
 
 1. 🌍 I'm Madhuri Dhum from Maharashtra, India
 2. 🖥️ I'm a Backend Node.js Developer with a knack for creating robust and scalable applications
